@@ -6,9 +6,11 @@ Feel free to use any 3rd-party libraries of your choise, but be ready to justify
 
 # Mocks
 ###List example
+
 <img src="./List.png" width="300">
 
 ###Details example
+
 <img src="./Details.png" width="300">
 
 # API
