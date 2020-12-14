@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "name": "Home Alone",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/2.jpg",
+      "year": 1990
+    },
+    {
+      "id": 5,
+      "name": "The Dark Knight",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/5.jpg",
+      "year": 2008
+    }
+  ]
+}

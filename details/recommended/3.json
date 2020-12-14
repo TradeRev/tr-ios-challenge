@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Avengers: Endgame",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/1.jpg",
+      "year": 2019
+    }
+  ]
+}

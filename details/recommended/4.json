@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "name": "Inception",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/3.jpg",
+      "year": 2010
+    },
+    {
+      "id": 4,
+      "name": "Toy Story",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/4.jpg",
+      "year": 1995
+    },
+    {
+      "id": 5,
+      "name": "The Dark Knight",
+      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/5.jpg",
+      "year": 2008
+    }
+  ]
+}
