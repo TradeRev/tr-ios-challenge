@@ -5,7 +5,7 @@ Implement a simple browser of a movie library. The list of movies is available i
 
 There's absolutely no expectation of pixel perfection, so feel free to use the mocks below as a guidance rather than a final design.
 
-Feel free to use any 3rd-party libraries of your choise, but don't overuse and be ready to justify the reason you picked them.
+Feel free to use any 3rd-party libraries of your choice, but don't overuse and be ready to justify the reason you picked them.
 
 
 # Mocks
