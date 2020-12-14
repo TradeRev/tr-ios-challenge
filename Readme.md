@@ -21,10 +21,10 @@ Feel free to use any 3rd-party libraries of your choise, but be ready to justify
 ### Details
 Construct the URL using the template `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/{id}.json`, 
 
-i.e. `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/1.json`
+i.e. https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/1.json
 
 ### Recommended
 
 Construct the URL using the template `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/recommended/{id}.json`,
 
-i.e. `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/recommended/1.json`
+i.e. https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/recommended/1.json
