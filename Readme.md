@@ -5,27 +5,26 @@ Feel free to use any 3rd-party libraries of your choise, but be ready to justify
 
 
 # Mocks
-###List example
+### List example
 
 <img src="./List.png" width="300">
 
-###Details example
+### Details example
 
 <img src="./Details.png" width="300">
 
 # API
 
-###List 
+### List 
 `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/list.json` to get the list
 
-###Details
+### Details
 Construct the URL using the template `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/{id}.json`, 
 
 i.e. `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/1.json`
 
-###Recommended
+### Recommended
 
 Construct the URL using the template `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/recommended/{id}.json`,
 
 i.e. `https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/details/recommended/1.json`
-
