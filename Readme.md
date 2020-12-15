@@ -1,7 +1,7 @@
 # The challenge
-Fork this repo and keep your fork public until we have been able to review it. The challenge takes 2-4 hours to complete.
+Fork this repo and keep your fork public until we have been able to review it. This challenge is meant to take 2-4 hours to complete.
 
-Implement a simple browser of a movie library. The list of movies is available in JSON format and has examples below in API section. On tap on a cell open a details page and present details from response of `deatils/{id}` and `details/recommended/{id}`. Examples of the URLs are in API section below. Use Swift 5.0 for the solution.
+Implement a simple browser of a movie library. The list of movies is available in JSON format and has examples below in the API section. On tap on a cell open a details page and present details from response of `details/{id}` and `details/recommended/{id}`. Examples of the URLs are in API section below. Use Swift 5.0 for the solution.
 
 There's absolutely no expectation of pixel perfection, so feel free to use the mocks below as a guidance rather than a final design.
 
